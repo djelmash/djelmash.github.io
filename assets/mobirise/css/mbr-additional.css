@@ -475,12 +475,14 @@ h6,
 #header1-0 .mbr-section-title {
   color: #efefef;
   text-align: center;
+  font-size: 60px;
 }
 #header1-0 .mbr-section-lead {
   color: #7e9b9f;
 }
 #msg-box4-4 H3 {
   color: #ffffff;
+  font-size: 36px;
 }
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
@@ -501,6 +503,8 @@ h6,
 }
 #msg-box3-b .mbr-section-title {
   color: #7e9b9f;
+  font-size: 46px;
+  text-align: center;
 }
 #msg-box3-b .lead P {
   text-align: center;

@@ -128,7 +128,8 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#efefef",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "60px"
             },
             ".mbr-section-lead": {
               "color": "#7e9b9f"
@@ -168,7 +169,8 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             }
           },
           "_anchor": "msg-box4-4",
@@ -304,7 +306,9 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#7e9b9f"
+              "color": "#7e9b9f",
+              "font-size": "46px",
+              "text-align": "center"
             },
             ".lead P": {
               "text-align": "center",
